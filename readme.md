@@ -1,3 +1,3 @@
 # Case #1
 
-> User forgot to add a `container.json`.
+> User forgot to add a `project.json` and `container.json`.
