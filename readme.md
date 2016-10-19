@@ -1,3 +1,3 @@
-# Case #3
+# Case #2
 
-> User forgot to add a required key on `container.json`.
+> User included `project.json` and `container.json` at the same directory.
