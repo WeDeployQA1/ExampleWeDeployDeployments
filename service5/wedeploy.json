@@ -1,5 +1,5 @@
 {
 	"env": {
-		"WEDEPLOY_WEB_PATH": "/sub/"
+		"WEDEPLOY_WEB_PATH": "sub"
 	}
 }
