@@ -1,1 +1,4 @@
-{"id": "hostingService"}
+{
+  "id": "hostingService",
+  "scale": 2
+}
