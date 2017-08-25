@@ -1,1 +1,1 @@
-FROM tutum/hello-world
+FROM dkuffner/docker-stress
